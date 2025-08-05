@@ -1,0 +1,16 @@
+# Git Ignore File
+
+# Node Modules
+node_modules/
+
+# Logs
+logs/
+
+# Temp Files
+temp/
+
+# Environment Variables
+.env
+
+# CSV Output Files
+*.csv

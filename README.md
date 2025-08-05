@@ -33,7 +33,7 @@ This script helps security researchers, developers, and organizations identify w
 1. **Clone or download this repository:**
    ```bash
    git clone <repository-url>
-   cd UmbracoSearch
+   cd techscanner-script
    ```
 
 2. **Install dependencies:**
